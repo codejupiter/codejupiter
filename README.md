@@ -1,3 +1,11 @@
-- 👋 Hi, I’m @codejupiter
+# Zoriah Cocio (codejupiter) 👋
 
-"The only way to do great work is to love what you do." - Steve Jobs
+Senior Frontend Engineer with 12+ years building 
+high-performance web apps for startups and enterprise brands.
+
+**Stack:** React · Next.js · TypeScript · Webflow · GSAP · Tailwind CSS
+
+**Portfolio:** [zoriahcocio.site](https://zoriahcocio.site)
+**Email:** info@zoriahcocio.com
+
+Currently available for remote freelance & contract work.
