@@ -8,4 +8,4 @@ high-performance web apps for startups and enterprise brands.
 **Portfolio:** [zoriahcocio.com](https://zoriahcocio.com)
 **Email:** info@zoriahcocio.com
 
-Currently available for remote freelance & contract work.
+Currently available for remote full time & contract work.
