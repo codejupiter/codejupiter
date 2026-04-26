@@ -5,7 +5,7 @@ high-performance web apps for startups and enterprise brands.
 
 **Stack:** React · Next.js · TypeScript · GSAP · Tailwind CSS
 
-**Portfolio:** [zoriahcocio.site](https://zoriahcocio.site)
+**Portfolio:** [zoriahcocio.com](https://zoriahcocio.com)
 **Email:** info@zoriahcocio.com
 
 Currently available for remote freelance & contract work.
