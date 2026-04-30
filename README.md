@@ -1,11 +1,7 @@
 # Zoriah Cocio (codejupiter) 👋
 
-Senior Frontend Engineer with 12+ years building 
-high-performance web apps for startups and enterprise brands.
-
-**Stack:** React · Next.js · TypeScript · GSAP · Tailwind CSS
-
-**Portfolio:** [zoriahcocio.com](https://zoriahcocio.com)
-**Email:** info@zoriahcocio.com
-
-Currently available for remote full time & contract work.
+👋 Software Engineer building production web apps across frontend, backend, and full-stack.
+Stack: React · Next.js · TypeScript · Node.js · Python · PostgreSQL
+Portfolio: zoriahcocio.com  Email: info@zoriahcocio.com
+Note: Most of my work lives in private client repositories. Public repos here are a sample of personal projects, learning experiments, and open-source contributions.
+Currently available for remote full-time & contract work.
