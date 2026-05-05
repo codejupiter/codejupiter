@@ -207,10 +207,10 @@ Frontend-focused system for managing intelligent automation workflows.
 # 🌐 Connect
 
 ### LinkedIn
-[Add your LinkedIn here](https://www.linkedin.com/in/zoriah-cocio/)
+[LinkedIn](https://www.linkedin.com/in/zoriah-cocio/)
 
 ### Portfolio
-[Add your portfolio here](https://www.zoriahcocio.com/)
+[Portfolio](https://www.zoriahcocio.com/)
 
 ### Email
 info@zoriahcocio.com
