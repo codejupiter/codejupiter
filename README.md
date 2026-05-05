@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B1020,100:1D4ED8&text=Zoriah%20Cocio&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20Developer%20•%20AI%20Engineer&descAlignY=56&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,100:1D4ED8&text=Zoriah%20Cocio&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20Developer%20•%20AI%20Engineer&descAlignY=56&descAlign=50"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Frontend+Engineering+%2B+Intelligent+Systems;Interactive+AI+Experiences;Immersive+3D+Interfaces;Neuroscience+Visualization+Platforms;Game+Development+%2B+AI+Integration;Building+Human-Centered+Technology"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer+Building+Intelligent+Systems;Frontend+Engineering+%2B+AI+Integration;Runtime+Security+%2B+Observability;Interactive+Visualization+Platforms;Immersive+Frontend+Experiences;Building+NeuroLens"/>
 
 </div>
 
@@ -17,55 +17,61 @@
 ```yaml
 Name: Zoriah Cocio
 
-Titles:
+Title:
   - Software Engineer
-  - Frontend Developer
-  - AI Engineer
 
-Interests:
-  - Artificial Intelligence
-  - Frontend Engineering
-  - Interactive Systems
-  - Immersive Interfaces
-  - Security Systems
-  - Game Development
-  - Intelligent UX
-  - 3D Experiences
+Specializations:
+  - Frontend Development
+  - AI Engineering
+  - Runtime Security Systems
+  - Interactive Experiences
+  - Intelligent Interfaces
+  - Real-Time Systems
+  - Visualization Platforms
+
+Current Focus:
+  - NeuroLens
 ```
 
-I enjoy building immersive software experiences that blend intelligent systems, interactive design, AI-driven workflows, and visually engaging user experiences.
+I’m a software engineer focused on building intelligent systems, immersive frontend experiences, runtime observability tooling, and AI-powered interfaces.
 
-My projects range from frontend applications and AI systems to game development concepts, interactive platforms, and immersive educational technology.
+My work spans real-time applications, conversational AI systems, client-side security tooling, adaptive interfaces, and interactive visualization platforms.
 
-Currently building **NeuroLens** — an AI-powered neuroscience and medical education platform focused on conversational tutoring, adaptive learning, and interactive 3D visualization.
+I enjoy engineering systems that feel:
+- immersive
+- performant
+- visually engaging
+- interactive
+- intelligent
+- human-centered
 
 ---
 
 # ⚡ Current Projects
 
 ## 🧬 NeuroLens
-AI-powered immersive neuroscience learning platform designed to reduce cognitive overload through intelligent tutoring and interactive medical visualization.
+AI-powered immersive neuroscience and medical education platform combining conversational tutoring, adaptive learning systems, and interactive 3D visualization.
 
-### Features
+### Vision
 - Conversational AI tutoring
-- Interactive 3D brain systems
-- Adaptive learning experiences
+- Adaptive learning systems
+- Interactive brain visualization
 - Voice-guided explanations
-- Intelligent exam preparation
-- Immersive educational UX
+- Intelligent educational workflows
+- Immersive medical education
 
 ---
 
-# 🚀 Areas I Work In
+# 🚀 Engineering Focus
 
 <div align="center">
 
-| Frontend Engineering | AI Systems | Interactive Experiences |
+| Software Engineering | Frontend Development | AI Engineering |
 |---|---|---|
-| React / Next.js | Conversational AI | 3D Interfaces |
-| UI/UX Systems | Intelligent Workflows | Immersive Design |
-| Responsive Applications | Adaptive Learning | Interactive Visualizations |
-| Frontend Architecture | AI Integration | Game Development |
+| Runtime Systems | Interactive Interfaces | Conversational AI |
+| Observability | Motion + Visualization | Adaptive Learning |
+| Performance Optimization | Intelligent UX | AI-Assisted Workflows |
+| Scalable Architectures | Realtime Experiences | Structured AI Outputs |
 
 </div>
 
@@ -75,26 +81,41 @@ AI-powered immersive neuroscience learning platform designed to reduce cognitive
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,python,html,css,tailwind,threejs,blender,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,tailwind,threejs,blender,postgres,mongodb,git,github,vscode"/>
 
 </div>
 
 ---
 
-# 🌌 Featured Development Focus
+# 🌌 Featured Systems
 
-### 🧠 AI + Interactive Learning
-Building systems that make learning immersive, visual, conversational, and less overwhelming.
+## 🧬 NeuroLens
+Immersive neuroscience learning platform focused on conversational AI, adaptive learning, and interactive medical visualization.
 
-### 🎮 Immersive Interfaces
-Exploring interactive frontend systems, 3D experiences, and intelligent user-centered design.
+## 🛡️ frontguard-agent
+Runtime security and observability agent monitoring DOM mutations, scripts, client-side behavior, and network interactions.
 
-### 🔐 Security + Intelligent Systems
-Combining software engineering with AI-driven workflows and scalable architecture.
+## 📈 ledgerline
+Realtime trading interface powered by live Binance WebSocket streams, market visualization, and high-frequency rendering systems.
+
+## ⚡ frontguard
+Frontend security tooling focused on runtime analysis, monitoring, and browser-side protection systems.
+
+## 🤖 revassist
+AI-assisted workflow platform focused on intelligent automation and conversational productivity systems.
 
 ---
 
-# 📈 GitHub Stats
+# 📜 Certifications
+
+- HackerRank — Software Engineer
+- HackerRank — Frontend (React)
+- Salesforce Certified
+- Stanford University — B.S. Computer Science
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -106,7 +127,7 @@ Combining software engineering with AI-driven workflows and scalable architectur
 
 ---
 
-# 🌐 Contribution Activity
+# 🌐 Contribution Graph
 
 <div align="center">
 
@@ -116,17 +137,17 @@ Combining software engineering with AI-driven workflows and scalable architectur
 
 ---
 
-# 🧪 Development Philosophy
+# 🧪 Engineering Philosophy
+
+I’m especially interested in systems where intelligent interaction, visualization, observability, and human-centered design intersect.
 
 I enjoy building technology that feels:
+- cinematic
 - immersive
-- intelligent
-- visually engaging
-- emotionally aware
-- interactive
-- human-centered
-
-I’m especially interested in experiences where AI, frontend engineering, visualization, and interaction design intersect.
+- engineered
+- responsive
+- intentional
+- future-facing
 
 ---
 
@@ -138,12 +159,20 @@ I’m especially interested in experiences where AI, frontend engineering, visua
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.zoriahcocio.com">
+<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/zoriah-cocio">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⚡ Building immersive systems that blend AI, interaction, and intelligent user experiences.
+### ⚡ Software engineer building intelligent interactive systems.
 
 </div>
