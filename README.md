@@ -20,7 +20,7 @@ I build scalable platforms, intelligent systems, automation tooling, gameplay sy
 
 ## 🤖 AI Systems & Automation
 
-### JARVIS AI Assistant
+### FRIDAY AI Assistant
 AI-powered desktop assistant inspired by intelligent operating systems.
 
 #### Features
