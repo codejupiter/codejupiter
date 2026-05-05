@@ -84,36 +84,6 @@ Security-focused automation and monitoring systems.
 
 # 🎮 Game Development
 
-### Creature Fusion Arena
-Open-world fusion-based game where players merge mythical creatures into powerful hybrids.
-
-#### Systems
-- Fusion mechanics
-- Creature rarity system
-- Arena combat
-- Ability systems
-- Progression balancing
-
-#### Tech
-`LuaU` `Roblox Studio`
-
----
-
-### Dracula Tycoon
-Dark fantasy tycoon experience featuring demons, angels, rebirth mechanics, and immersive systems.
-
-#### Systems
-- Upgrade systems
-- Rebirth progression
-- Economy balancing
-- Atmospheric VFX
-- Multiplayer interaction
-
-#### Tech
-`LuaU` `Roblox Studio`
-
----
-
 ### Bloodroot Coven
 Dark fantasy farming + ritual-based narrative experience.
 
