@@ -1,224 +1,149 @@
-# Zoriah Cocio
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B1020,100:1D4ED8&text=Zee%20Cocio&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20Developer%20•%20AI%20Engineer&descAlignY=56&descAlign=50"/>
+
+</div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Frontend+%E2%80%A2+Backend+Developer;AI+Systems+Engineer;Security+Systems+Developer;Game+Developer;Full+Stack+Engineer)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Frontend+Engineering+%2B+Intelligent+Systems;Interactive+AI+Experiences;Immersive+3D+Interfaces;Neuroscience+Visualization+Platforms;Game+Development+%2B+AI+Integration;Building+Human-Centered+Technology"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🧠 About Me
 
-Software Engineer specializing in frontend architecture, backend systems, AI-powered applications, security-focused engineering, and immersive game development.
+```yaml
+Name: Zoriah Cocio
 
-I build scalable platforms, intelligent systems, automation tooling, gameplay systems, and modern interactive experiences.
+Titles:
+  - Software Engineer
+  - Frontend Developer
+  - AI Engineer
 
----
+Interests:
+  - Artificial Intelligence
+  - Frontend Engineering
+  - Interactive Systems
+  - Immersive Interfaces
+  - Security Systems
+  - Game Development
+  - Intelligent UX
+  - 3D Experiences
+```
 
-# 🚀 What I'm Building
+I enjoy building immersive software experiences that blend intelligent systems, interactive design, AI-driven workflows, and visually engaging user experiences.
 
-## 🤖 AI Systems & Automation
+My projects range from frontend applications and AI systems to game development concepts, interactive platforms, and immersive educational technology.
 
-### FRIDAY AI Assistant
-AI-powered desktop assistant inspired by intelligent operating systems.
-
-#### Features
-- Voice recognition
-- System automation
-- AI integrations
-- Intelligent workflows
-- Real-time desktop interaction
-
-#### Tech
-`Python` `Electron` `Node.js` `AI APIs`
-
----
-
-### AI Automation Suite
-Developer-focused automation tools and intelligent workflow systems.
-
-#### Features
-- Workflow automation
-- Backend scripting
-- AI integrations
-- Monitoring systems
-- Task orchestration
-
-#### Tech
-`Python` `Node.js` `Docker`
+Currently building **NeuroLens** — an AI-powered neuroscience and medical education platform focused on conversational tutoring, adaptive learning, and interactive 3D visualization.
 
 ---
 
-# 🔐 Security & Infrastructure
+# ⚡ Current Projects
 
-### Secure Authentication System
-Modern authentication platform focused on scalable and secure backend architecture.
+## 🧬 NeuroLens
+AI-powered immersive neuroscience learning platform designed to reduce cognitive overload through intelligent tutoring and interactive medical visualization.
 
-#### Features
-- JWT authentication
-- Session management
-- Secure API handling
-- Role-based permissions
-- Infrastructure monitoring
-
-#### Tech
-`Node.js` `PostgreSQL` `Docker`
+### Features
+- Conversational AI tutoring
+- Interactive 3D brain systems
+- Adaptive learning experiences
+- Voice-guided explanations
+- Intelligent exam preparation
+- Immersive educational UX
 
 ---
 
-### Security Monitoring Tools
-Security-focused automation and monitoring systems.
+# 🚀 Areas I Work In
 
-#### Features
-- Threat monitoring
-- System logging
-- Automation alerts
-- Backend observability
-- Infrastructure tooling
+<div align="center">
 
-#### Tech
-`Python` `Linux` `Docker`
+| Frontend Engineering | AI Systems | Interactive Experiences |
+|---|---|---|
+| React / Next.js | Conversational AI | 3D Interfaces |
+| UI/UX Systems | Intelligent Workflows | Immersive Design |
+| Responsive Applications | Adaptive Learning | Interactive Visualizations |
+| Frontend Architecture | AI Integration | Game Development |
 
----
-
-# 🎮 Game Development
-
-### Bloodroot Coven
-Dark fantasy farming + ritual-based narrative experience.
-
-#### Systems
-- Ritual mechanics
-- Crop mutations
-- NPC obsession system
-- Relationship tracking
-- Atmospheric storytelling
-
-#### Tech
-`Unity` `C#`
+</div>
 
 ---
 
-# 🌐 Frontend & Full Stack Engineering
+# 🛠️ Tech Stack
 
-### Developer Dashboard
-Modern dashboard architecture focused on scalability and real-time interaction.
+<div align="center">
 
-#### Features
-- Real-time updates
-- API integrations
-- Analytics systems
-- Interactive UI
-- Authentication handling
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,python,html,css,tailwind,threejs,blender,git,github,vscode"/>
 
-#### Tech
-`React` `Next.js` `TypeScript`
+</div>
 
 ---
 
-### Interactive Control Panel
-Frontend-focused system for managing intelligent automation workflows.
+# 🌌 Featured Development Focus
 
-#### Features
-- Dynamic UI systems
-- Secure API communication
-- Real-time controls
-- Interactive components
-- State management
+### 🧠 AI + Interactive Learning
+Building systems that make learning immersive, visual, conversational, and less overwhelming.
 
-#### Tech
-`React` `TypeScript` `Node.js`
+### 🎮 Immersive Interfaces
+Exploring interactive frontend systems, 3D experiences, and intelligent user-centered design.
+
+### 🔐 Security + Intelligent Systems
+Combining software engineering with AI-driven workflows and scalable architecture.
 
 ---
 
-# ⚙️ Tech Stack
+# 📈 GitHub Stats
 
-## Frontend
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codejupiter&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-## Backend
-![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codejupiter&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
-## Game Development
-![Unity](https://img.shields.io/badge/-Unity-000?style=for-the-badge&logo=unity)
-![CSharp](https://img.shields.io/badge/-CSharp-000?style=for-the-badge&logo=csharp)
-![Roblox](https://img.shields.io/badge/-Roblox-000?style=for-the-badge&logo=roblox)
+# 🌐 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codejupiter&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true"/>
+
+</div>
 
 ---
 
-## Infrastructure & Security
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![GitHubActions](https://img.shields.io/badge/-GitHub_Actions-000?style=for-the-badge&logo=github-actions)
+# 🧪 Development Philosophy
+
+I enjoy building technology that feels:
+- immersive
+- intelligent
+- visually engaging
+- emotionally aware
+- interactive
+- human-centered
+
+I’m especially interested in experiences where AI, frontend engineering, visualization, and interaction design intersect.
 
 ---
 
-# 📊 GitHub Analytics
+# 🛰️ Connect
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/codejupiter">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
-
----
-
-# 🧠 Current Focus
-
-- AI-powered systems
-- Full-stack engineering
-- Security-focused architecture
-- Intelligent automation
-- Interactive gameplay systems
-- Developer infrastructure
-
----
-
-# 🏗️ Engineering Philosophy
-
-> I don't just build projects — I engineer scalable systems, immersive experiences, and intelligent software ecosystems.
-
----
-
-# 📌 Featured Repositories
-
-- `jarvis-ai-assistant`
-- `ai-automation-suite`
-- `secure-auth-system`
-- `security-monitoring-tools`
-- `creature-fusion-arena`
-- `dracula-tycoon`
-- `bloodroot-coven`
-- `developer-dashboard`
-
----
-
-# 🌐 Connect
-
-### LinkedIn
-[LinkedIn](https://www.linkedin.com/in/zoriah-cocio/)
-
-### Portfolio
-[Portfolio](https://www.zoriahcocio.com/)
-
-### Email
-info@zoriahcocio.com
+</div>
 
 ---
 
 <div align="center">
 
-### 👩‍💻 Software Engineer • AI Engineer • Security Systems • Game Developer
+### ⚡ Building immersive systems that blend AI, interaction, and intelligent user experiences.
 
 </div>
