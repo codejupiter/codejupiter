@@ -1,14 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,100:1D4ED8&text=Zoriah%20Cocio&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20Developer&descAlignY=56&descAlign=50"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Software+Engineer+Building+Intelligent+Systems;Frontend+Engineering+%2B+AI+Integration;Runtime+Security+%2B+Observability;Interactive+Visualization+Platforms;Immersive+Frontend+Experiences;Building+NeuroLens"/>
-
-</div>
+<p align="center">
+  <img src="./assets/jarvis-banner.svg" alt="Zoriah Cocio - Frontend & AI Engineer" />
+</p>
 
 ---
 
