@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jarvis-banner.svg" alt="Zoriah Cocio - Frontend & AI Engineer" />
+  <img src="./assets/jarvis-banner.svg" alt="Zoriah Cocio - Software Engineer | Frontend" />
 </p>
 
 ---
