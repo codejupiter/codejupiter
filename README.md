@@ -89,20 +89,33 @@ AI-powered immersive neuroscience and medical education platform combining conve
 
 # 🌌 Featured Systems
 
-## 🧬 NeuroLens
-Immersive neuroscience learning platform focused on conversational AI, adaptive learning, and interactive medical visualization.
+## 🧬 [NeuroLens](https://github.com/codejupiter/neurolens)
 
-## 🛡️ frontguard-agent
-Runtime security and observability agent monitoring DOM mutations, scripts, client-side behavior, and network interactions.
+AI-powered immersive neuroscience learning platform.
 
-## 📈 ledgerline
-Realtime trading interface powered by live Binance WebSocket streams, market visualization, and high-frequency rendering systems.
+---
 
-## ⚡ frontguard
-Frontend security tooling focused on runtime analysis, monitoring, and browser-side protection systems.
+## 🛡️ [frontguard-agent](https://github.com/codejupiter/frontguard-agent)
 
-## 🤖 revassist
-AI-assisted workflow platform focused on intelligent automation and conversational productivity systems.
+Runtime security and observability agent.
+
+---
+
+## 📈 [ledgerline](https://github.com/codejupiter/ledgerline)
+
+Realtime trading visualization platform.
+
+---
+
+## ⚡ [frontguard](https://github.com/codejupiter/frontguard)
+
+Frontend runtime security tooling.
+
+---
+
+## 🤖 [revassist](https://github.com/codejupiter/revassist)
+
+AI-assisted workflow automation platform.
 
 ---
 
@@ -111,6 +124,9 @@ AI-assisted workflow platform focused on intelligent automation and conversation
 - HackerRank — Software Engineer
 - HackerRank — Frontend (React)
 - Salesforce Certified
+- Google Cloud AI Engineer
+- Google AI Essentials
+- Google TensorFlow Developer Certificate
 - Stanford University — B.S. Computer Science
 
 ---
