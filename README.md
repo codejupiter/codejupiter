@@ -83,7 +83,7 @@ Right now I am sharpening a portfolio of product-grade projects across frontend 
         <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Security-0f172a?style=flat-square&logo=owasp&logoColor=white" alt="Security" />
       </p>
-      <p><a href="https://frontguard-3dp39xg1r-codejupiters-projects.vercel.app/">Live demo</a></p>
+      <p><a href="https://github.com/codejupiter/frontguard#quick-start">Local setup</a></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/codejupiter/Ledgerline">Ledgerline</a></h3>
