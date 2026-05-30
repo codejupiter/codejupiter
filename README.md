@@ -19,6 +19,8 @@ I build polished interfaces and production-minded web applications with React, N
 
 Right now I am sharpening a portfolio of product-grade projects across frontend systems, SaaS dashboards, runtime security, AI-assisted workflows, and real-time data visualization.
 
+> **🛠 Currently shipping:** [**dealbrief**](https://github.com/codejupiter/dealbrief) — agentic deal intelligence for sales calls. A five-step LLM pipeline (extract → classify → cross-reference → compliance → synthesize) with streaming markdown output, Voyage AI embeddings for playbook matching, and structured handoffs between Claude Haiku and Sonnet. [**Live demo →**](https://dealbrief-codejupiters-projects.vercel.app)
+
 <table>
   <tr>
     <td><strong>Core focus</strong></td>
@@ -98,14 +100,14 @@ Right now I am sharpening a portfolio of product-grade projects across frontend 
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/codejupiter/frontguard-agent">FrontGuard Agent</a></h3>
-      <p>A lightweight runtime security agent for detecting script injection, iframe injection, and suspicious DOM mutation events.</p>
+      <h3><a href="https://github.com/codejupiter/dealbrief">dealbrief</a></h3>
+      <p>Agentic deal intelligence for sales calls. Five-step LLM pipeline with streaming synthesis, Voyage AI embeddings, and structured handoffs between Claude models.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Runtime-0f172a?style=flat-square&logo=javascript&logoColor=f7df1e" alt="Runtime" />
-        <img src="https://img.shields.io/badge/Tests-0f172a?style=flat-square&logo=vitest&logoColor=6e9f18" alt="Tests" />
+        <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Anthropic-0f172a?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+        <img src="https://img.shields.io/badge/Voyage_AI-0f172a?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" alt="Voyage AI" />
       </p>
-      <p><a href="https://frontguard-agent.vercel.app">Live demo</a></p>
+      <p><a href="https://dealbrief-codejupiters-projects.vercel.app">Live demo</a></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/codejupiter/revassist">RevAssist</a></h3>
@@ -122,10 +124,10 @@ Right now I am sharpening a portfolio of product-grade projects across frontend 
 
 ## Current Focus
 
-- Building production-quality frontend projects with strong README documentation and live demos.
-- Designing dense, fast, accessible UI for dashboards and internal tools.
-- Exploring runtime observability, browser security, real-time data, and AI-native product workflows.
-- Turning portfolio projects into reusable packages, deployable demos, and clear case studies.
+- Building agentic AI systems — multi-step LLM pipelines with structured handoffs, streaming UX, and embedding-based retrieval. Most recent: [dealbrief](https://github.com/codejupiter/dealbrief).
+- Designing dense, fast, accessible UI for dashboards, internal tools, and AI-native interfaces.
+- Exploring real-time data, runtime observability, and the productization of LLM workflows.
+- Turning portfolio projects into deployable demos with clear case studies.
 
 ## GitHub Activity
 
