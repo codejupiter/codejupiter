@@ -30,9 +30,9 @@ My work does not stop at the browser or the breadboard. I care about the entire 
   </tr>
 </table>
 
-## Hardware & Embedded Systems
+## Current Hardware Spotlight
 
-### RP2040 Custom 2×2 USB Macropad
+### [`rp2040-macropad`](https://github.com/codejupiter/rp2040-macropad) — RP2040 Custom 2×2 USB Macropad
 
 <p align="center">
   <a href="https://github.com/codejupiter/rp2040-macropad">
@@ -59,7 +59,7 @@ The firmware is written in **C++17** on the official **Raspberry Pi Pico SDK** a
 | Four 1N4148 diodes | Debouncing + multi-key input | Gerber, drill, BOM, and assembly docs |
 | 58 × 97 mm, two-layer PCB | GP0/GP1 rows · GP6/GP7 columns | Zero-dependency host integration |
 
-## Full-stack software ecosystem
+## Full-Stack & Software Ecosystem
 
 <table>
   <tr>
@@ -83,29 +83,23 @@ The firmware is written in **C++17** on the official **Raspberry Pi Pico SDK** a
 
 Across these projects I build the product surface and the systems behind it: typed application architecture, reusable UI primitives, large-data rendering, AI-assisted workflows, test suites, CI pipelines, deployment automation, and production-focused documentation.
 
-## Engineering stack
+## Tech Stack
 
-### Frontend & product UI
+### Software
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-0F172A?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-</p>
-
-### Backend & automation
-
-<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 </p>
 
-### Embedded & hardware
+### Hardware & Embedded
 
 <p>
   <img src="https://img.shields.io/badge/Embedded_C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="Embedded C++" />
