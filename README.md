@@ -1,151 +1,132 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Zoriah Cocio - Software Engineer focused on modern fullstack apps and polished user experiences" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Zoriah Cocio — Full-Stack Software Engineer and Open-Source Hardware Designer" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://zoriahcocio.com"><img src="https://img.shields.io/badge/Portfolio-zoriahcocio.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/codejupiter"><img src="https://img.shields.io/badge/GitHub-codejupiter-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/zoriah-cocio"><img src="https://img.shields.io/badge/LinkedIn-Zoriah_Cocio-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:info@zoriahcocio.com"><img src="https://img.shields.io/badge/Email-info@zoriahcocio.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zoriahcocio.com"><img src="https://img.shields.io/badge/Portfolio-zoriahcocio.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/codejupiter"><img src="https://img.shields.io/badge/GitHub-codejupiter-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/zoriah-cocio"><img src="https://img.shields.io/badge/LinkedIn-Zoriah_Cocio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@zoriahcocio.com"><img src="https://img.shields.io/badge/Email-Let's_build-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Frontend+Engineer;Fullstack+Product+Builder;React+%2B+Next.js+%2B+TypeScript;Production-minded+UI+systems" alt="Frontend Engineer, Fullstack Product Builder, React Next.js TypeScript" />
-</p>
+## I build across the boundary between software and hardware
 
-## Software Engineer building modern fullstack products
+I am a **Full-Stack Software Engineer and Open-Source Hardware Designer** building complete systems—from high-performance web applications and reusable UI foundations to custom PCBs, embedded C++ firmware, and physical prototypes.
 
-I build polished interfaces and production-minded web applications with React, Next.js, TypeScript, and modern frontend infrastructure. My work is focused on fast user experiences, clean architecture, real-time interfaces, and tools that feel ready to ship.
-
-Right now I am sharpening a portfolio of product-grade projects across frontend systems, SaaS dashboards, runtime security, AI-assisted workflows, and real-time data visualization.
-
-> **🛠 Currently shipping:** [**dealbrief**](https://github.com/codejupiter/dealbrief) — agentic deal intelligence for sales calls. A five-step LLM pipeline (extract → classify → cross-reference → compliance → synthesize) with streaming markdown output, Voyage AI embeddings for playbook matching, and structured handoffs between Claude Haiku and Sonnet. [**Live demo →**](https://dealbrief-codejupiters-projects.vercel.app)
+My work does not stop at the browser or the breadboard. I care about the entire path: product architecture, interface performance, device firmware, electrical design, mechanical constraints, manufacturing files, automation, testing, and clear documentation.
 
 <table>
   <tr>
-    <td><strong>Core focus</strong></td>
-    <td>Frontend engineering, product UI, fullstack app architecture, real-time UX</td>
+    <td><strong>Software systems</strong></td>
+    <td>Full-stack products, design systems, analytics interfaces, real-time UX, and developer tooling</td>
   </tr>
   <tr>
-    <td><strong>Current stack</strong></td>
-    <td>React, Next.js, TypeScript, Tailwind CSS, Node.js, Vite, PostgreSQL, Vercel</td>
+    <td><strong>Physical systems</strong></td>
+    <td>PCB design, embedded firmware, USB devices, switch matrices, prototyping, and CAD-aware design</td>
   </tr>
   <tr>
-    <td><strong>What I care about</strong></td>
-    <td>Performance, accessibility, responsive design, clean state, strong documentation</td>
+    <td><strong>Engineering approach</strong></td>
+    <td>Own the full stack, measure the critical paths, automate repetition, and ship reproducible work</td>
   </tr>
 </table>
 
-## Tech Stack
+## Featured hardware — RP2040 Custom 2×2 USB Macropad
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,vite,postgres,mongodb,python,git,github,vercel,figma&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Node.js, Tailwind CSS, Vite, PostgreSQL, MongoDB, Python, Git, GitHub, Vercel, Figma" />
+<p align="center">
+  <a href="https://github.com/codejupiter/rp2040-macropad">
+    <img src="./assets/rp2040-macropad-render.png" alt="3D render of the red RP2040 custom 2x2 USB mechanical macropad PCB" width="760" />
+  </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+I designed [`rp2040-macropad`](https://github.com/codejupiter/rp2040-macropad) from the schematic up: a compact, open-hardware USB input device built around a header-mounted Raspberry Pi Pico. The **58 × 97 mm, two-layer PCB** carries four MX-compatible switches and one **1N4148 diode per key** for an anti-ghosting 2×2 matrix, with fabrication output prepared for a red solder mask.
+
+The firmware is written in **C++17** on the official **Raspberry Pi Pico SDK** and uses **TinyUSB** for driverless USB HID keyboard reports. The repository includes editable KiCad sources, verified Gerber and drill files, a bill of materials, assembly documentation, automated CMake builds, and a `picotool`/BOOTSEL flashing workflow.
+
+<p align="center">
+  <a href="https://github.com/codejupiter/rp2040-macropad"><strong>Explore the repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/codejupiter/rp2040-macropad/tree/main/hardware"><strong>KiCad & manufacturing files</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/codejupiter/rp2040-macropad/blob/main/main.cpp"><strong>Firmware</strong></a>
 </p>
 
-## Featured Work
+| Hardware | Firmware | Delivery |
+| --- | --- | --- |
+| Raspberry Pi Pico / RP2040 | C++17 + Pico SDK | CMake + GitHub Actions |
+| 2×2 MX switch matrix | TinyUSB HID keyboard | Automated flashing script |
+| Four 1N4148 diodes | Debouncing + multi-key input | Gerber, drill, BOM, and assembly docs |
+| 58 × 97 mm, two-layer PCB | GP0/GP1 rows · GP6/GP7 columns | Zero-dependency host integration |
+
+## Full-stack software ecosystem
 
 <table>
   <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/codejupiter/Dense-UI">Dense UI</a></h3>
-      <p>A compact React component library for data-heavy dashboards, admin panels, and operational tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Radix_UI-0f172a?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
-      </p>
-      <p><a href="https://dense-ui.vercel.app">Live docs</a></p>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/codejupiter/Dense-UI">Dense-UI</a></h3>
+      <p>A compact, accessible React component library for data-heavy dashboards, admin panels, and operational tools. Built with TypeScript, Radix primitives, CSS variables, Storybook, and tree-shakeable package exports.</p>
+      <p><a href="https://dense-ui.vercel.app"><strong>Live documentation →</strong></a></p>
     </td>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/codejupiter/Spendboard">SpendBoard</a></h3>
-      <p>A high-performance finance dashboard rendering 50,000+ transactions with filtering, saved views, charts, and virtualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/TanStack-0f172a?style=flat-square&logo=reacttable&logoColor=ff4154" alt="TanStack" />
-        <img src="https://img.shields.io/badge/Zustand-0f172a?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
-      </p>
-      <p><a href="https://spendboard-beige.vercel.app">Live demo</a></p>
+      <p>A high-performance spend analytics dashboard with filtering, charts, saved views, keyboard navigation, and a virtualized table handling 50,000+ transactions.</p>
+      <p><a href="https://spendboard-beige.vercel.app"><strong>Live demo →</strong></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/codejupiter/frontguard">FrontGuard</a></h3>
-      <p>An interactive frontend security playground for XSS, auth storage, API exposure, RBAC, and client-side bypasses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Security-0f172a?style=flat-square&logo=owasp&logoColor=white" alt="Security" />
-      </p>
-      <p><a href="https://github.com/codejupiter/frontguard#quick-start">Local setup</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/codejupiter/Ledgerline">Ledgerline</a></h3>
-      <p>A real-time crypto trading interface with live Binance WebSocket data, candlesticks, order book, trades tape, and FPS telemetry.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/WebSocket-0f172a?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
-        <img src="https://img.shields.io/badge/Charts-0f172a?style=flat-square&logo=tradingview&logoColor=white" alt="Charts" />
-      </p>
-      <p><a href="https://ledgerline-omega.vercel.app">Live demo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/codejupiter/dealbrief">dealbrief</a></h3>
-      <p>Agentic deal intelligence for sales calls. Five-step LLM pipeline with streaming synthesis, Voyage AI embeddings, and structured handoffs between Claude models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Anthropic-0f172a?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-        <img src="https://img.shields.io/badge/Voyage_AI-0f172a?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" alt="Voyage AI" />
-      </p>
-      <p><a href="https://dealbrief-codejupiters-projects.vercel.app">Live demo</a></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/codejupiter/revassist">RevAssist</a></h3>
-      <p>An AI-assisted deal desk interface that turns raw notes into structured deal summaries, add-ons, compliance flags, and customer follow-up copy.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/AI_UX-0f172a?style=flat-square&logo=openai&logoColor=white" alt="AI UX" />
-        <img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646cff" alt="Vite" />
-      </p>
-      <p><a href="https://codejupiter.github.io/revassist/">Live demo</a></p>
+      <p>An agentic deal-intelligence application with a five-stage LLM pipeline, streaming synthesis, embedding-based playbook matching, and structured model handoffs.</p>
+      <p><a href="https://dealbrief-codejupiters-projects.vercel.app"><strong>Live demo →</strong></a></p>
     </td>
   </tr>
 </table>
 
-## Current Focus
+Across these projects I build the product surface and the systems behind it: typed application architecture, reusable UI primitives, large-data rendering, AI-assisted workflows, test suites, CI pipelines, deployment automation, and production-focused documentation.
 
-- Building agentic AI systems — multi-step LLM pipelines with structured handoffs, streaming UX, and embedding-based retrieval. Most recent: [dealbrief](https://github.com/codejupiter/dealbrief).
-- Designing dense, fast, accessible UI for dashboards, internal tools, and AI-native interfaces.
-- Exploring real-time data, runtime observability, and the productization of LLM workflows.
-- Turning portfolio projects into deployable demos with clear case studies.
+## Engineering stack
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codejupiter&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22c55e" alt="Zoriah's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=codejupiter&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=CBD5E1&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Zoriah's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codejupiter&bg_color=0d1117&color=cbd5e1&line=38bdf8&point=22c55e&area=true&area_color=0ea5e9&hide_border=true" alt="Zoriah's contribution graph" />
-</p>
-
-## Contact
-
-I am open to software engineering, frontend engineering, fullstack engineering, and product engineering opportunities.
+### Software
 
 <p>
-  <a href="https://zoriahcocio.com">Portfolio</a> /
-  <a href="https://linkedin.com/in/zoriah-cocio">LinkedIn</a> /
-  <a href="mailto:info@zoriahcocio.com">Email</a>
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+### Hardware & embedded
+
+<p>
+  <img src="https://img.shields.io/badge/KiCad-0F172A?style=for-the-badge&logo=kicad&logoColor=314CB0" alt="KiCad" />
+  <img src="https://img.shields.io/badge/PCB_Design-0F172A?style=for-the-badge&logo=printedcircuitboard&logoColor=22C55E" alt="PCB Design" />
+  <img src="https://img.shields.io/badge/RP2040_SDK-0F172A?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A" alt="RP2040 SDK" />
+  <img src="https://img.shields.io/badge/TinyUSB-0F172A?style=for-the-badge&logo=usb&logoColor=38BDF8" alt="TinyUSB" />
+  <img src="https://img.shields.io/badge/Soldering_%26_Prototyping-0F172A?style=for-the-badge&logoColor=F59E0B" alt="Soldering and Prototyping" />
+  <img src="https://img.shields.io/badge/3D_Design_%2F_CAD-0F172A?style=for-the-badge&logo=autodesk&logoColor=0696D7" alt="3D Design and CAD" />
+</p>
+
+## What I optimize for
+
+- **End-to-end ownership** — from an interaction model or circuit sketch to a tested, documented release.
+- **Performance with evidence** — virtualized data interfaces, measurable bundle decisions, and tight embedded loops.
+- **Reproducibility** — automated builds, flashing, checks, and manufacturing outputs that another engineer can use.
+- **Open engineering** — readable source, explicit tradeoffs, and documentation that makes the work easier to extend.
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codejupiter&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=22C55E" alt="Zoriah's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejupiter&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages" />
+</p>
+
+## Let’s build something complete
+
+I am open to full-stack, frontend, product engineering, embedded systems, and cross-disciplinary hardware/software opportunities.
+
+<p>
+  <a href="https://zoriahcocio.com"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/zoriah-cocio"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:info@zoriahcocio.com"><strong>Email</strong></a>
 </p>
